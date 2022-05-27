@@ -35,6 +35,7 @@ public class Main {
         }
         System.out.println(Arrays.toString(arr));
 
+        // ищу уникальные пары, ведь от перестановки местами слагаемых сумма не меняется, правда? :)
         System.out.println("Задача 8:");
         arr = new int[]{-6, 2, 5, -8, 8, 10, 4, -7, 12, 1};
         System.out.println(Arrays.toString(arr));
